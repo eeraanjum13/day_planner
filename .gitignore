@@ -1,0 +1,13 @@
+# Node (React)
+day_planner_frontend/node_modules/
+day_planner_frontend/build/
+day_planner_frontend/.env
+
+# Python (FastAPI)
+backend/__pycache__/
+backend/.env
+*.pyc
+
+# General
+.DS_Store
+.env
